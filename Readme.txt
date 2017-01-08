@@ -7,6 +7,6 @@ Hackathon Date: January 7-8, 2017
 
 This is basically a Hangman clone built, in 3D, using Unity 5, with the exception of some tweaks to game logic and what words have been loaded into the game.
 
-Devpost posting:
+Devpost posting: https://devpost.com/software/mlh-holo-hangfigure
 
 Source Code © 2017 Gregory Desrosiers. All rights reserved.
